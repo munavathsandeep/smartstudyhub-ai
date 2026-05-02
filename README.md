@@ -6,6 +6,10 @@ A modern, AI-powered study planning platform for students — built with TanStac
 
 Smart Study Planner AI helps students organize their study schedules, track productivity, prepare for exams, and stay motivated using AI-generated recommendations and gamification.
 
+## Live Demo
+
+https:smartstudyhub-ai.netlify.ap
+
 ## Key Features
 
 - **AI Study Planner** — Personalized daily schedules with smart subject balancing
@@ -92,3 +96,7 @@ src/
     api.chat.ts       # AI chat API endpoint
   styles.css          # Global styles + CSS variables
 ```
+
+## Author
+
+Developed by Munavath Sandeep
